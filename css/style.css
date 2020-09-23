@@ -1,0 +1,30 @@
+body{
+    background: url("../images/Gym.png")
+      no-repeat  center center fixed ;
+    background-size: cover;
+}
+
+div {
+    text-align :center ;
+    background-color: darkgrey;
+    width: 60% ;
+    margin:100px auto ;
+    border-radius: 25px ;
+    font-family: 'Tajawal', sans-serif;
+}
+
+button{
+    border-radius:25px ;
+    background:white ;
+    padding: 20px ;
+    colour: black ;
+    font-size: 2em ;
+}
+
+h1{
+    font-size: 4em ;
+}
+p{
+    font-size: 3em ;
+}
+
